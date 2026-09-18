@@ -31,6 +31,8 @@ It ranges from an introduction to probability theory up to Hamiltonian Monte Car
 | [exercise_solutions/](exercise_solutions/) | Solutions to selected exercises — currently [week1_pi_exercises_solution.ipynb](exercise_solutions/week1_pi_exercises_solution.ipynb). |
 | [course_tools/](course_tools/) | Plotting helpers, matplotlib styles, and the scripts that build the [slides](course_tools/make_slides.sh) and [PDFs](course_tools/make_pdf.sh). |
 | [environment.yaml](environment.yaml) | The conda environment for running everything here. |
+| [help](help/) | Infographics and other helpful accessories for `git`, `python` and more. Thanks to *Michael Coughlin*'s [repository](https://github.com/UMN-Big-Data-in-Astrophysics).|
+
 
 These will be populated as the course progresses through the term; at the moment only week 1 is in place.
 
